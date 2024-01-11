@@ -4,7 +4,7 @@ Code and dataset repository for “Generative Model-Based Matching For Infrared 
 # Dataset
 Our proposed dataset is collected around/inside a university campus under both day and night traffic scenarios, consisting of registrated  Visible-Infrared image pairs.
 
-## RGB-IR Image Pairs
+### RGB-IR Image Pairs
 
 <!-- ### Visible Images -->
 <!-- |  |  |  |  |  |  |  | -->
